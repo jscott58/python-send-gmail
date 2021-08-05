@@ -1,5 +1,8 @@
 from __future__ import print_function
-import os.path
+import pysftp
+import os
+import sys
+import time
 import base64
 from email.mime.text import MIMEText
 from googleapiclient.discovery import build
@@ -15,7 +18,7 @@ astline = "*********************************************************************
 gmail_sender = "scottcalhoun65@gmail.com"
 gmail_to = "scott.calhoun@hbkeso.com"
 gmail_subject = "Utilization Run Check"
-gmail_text = "Test Gmail"
+gmail_text = "...gmail_text not created..."
 gmail_userid = "scottcalhoun65@gmail.com"
 
 
@@ -69,41 +72,79 @@ def send_message(service, user_id, message):
 
 
 def main():
-    """Shows basic usage of the Gmail API.
-    Lists the user's Gmail labels.
-    """
-    creds = None
-    # The file token.json stores the user's access and refresh tokens, and is
-    # created automatically when the authorization flow completes for the first
-    # time.
-    if os.path.exists('token.json'):
-        creds = Credentials.from_authorized_user_file('token.json', SCOPES)
-    # If there are no (valid) credentials available, let the user log in.
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(
-                'credentials.json', SCOPES)
-            creds = flow.run_local_server(port=0)
-        # Save the credentials for the next run
-        with open('token.json', 'w') as token:
-            token.write(creds.to_json())
+    print(astline)
+    print("HBK Solutions LLC Unanet Utilization Report - Run Check")
+    print(astline)
+    print("")
 
-    service = build('gmail', 'v1', credentials=creds)
+    print(astline)
+    print("Reading HBKUtil utilization folder on sftp.hbkeso.com")
+    print(astline)
+    print("")
+    # Define hostkey path so that pyinstaller will correctly include when using --onrfile
+    sftphostkey_path = resource_path("hbkeso.pub")
+    # ASpecify host jey for sftp server
+    cnopts = pysftp.CnOpts(knownhosts=sftphostkey_path)
+    # And authenticate with a private key
+    with pysftp.Connection(
+        host="sftp.hbkeso.com",
+        username="HBKUtil",
+        password="^8y5Sc1F3%e89xZ2#blkW6pn0(Ym)R@s1!G",
+        cnopts=cnopts,
+    ) as sftp:
+        try:
+            utilFiles = sftp.listdir("./")  # upload file to public/ on remote
+            print(astline)
+            print("")
+            if len(utilFiles) == 0:
+                print("No files found.")
+            else:
+                print("sftp files:")
+                # printing the list using loop
+                for x in range(len(utilFiles)):
+                    print("      " + utilFiles[x])
+                    fileStatsObj = os.stat(utilFiles[x])
+                    modificationTime = time.ctime(fileStatsObj.st_mtime)
+                    print("      Last Modified: ", modificationTime)
+            print("")
+            print(astline)
+            creds = None
+            # The file token.json stores the user's access and refresh tokens, and is
+            # created automatically when the authorization flow completes for the first
+            # time.
+            if os.path.exists('token.json'):
+                creds = Credentials.from_authorized_user_file('token.json', SCOPES)
+            # If there are no (valid) credentials available, let the user log in.
+            if not creds or not creds.valid:
+                if creds and creds.expired and creds.refresh_token:
+                    creds.refresh(Request())
+                else:
+                    flow = InstalledAppFlow.from_client_secrets_file(
+                        'credentials.json', SCOPES)
+                    creds = flow.run_local_server(port=0)
+                # Save the credentials for the next run
+                with open('token.json', 'w') as token:
+                    token.write(creds.to_json())
 
-    # Call the Gmail API
-    results = service.users().labels().list(userId='me').execute()
-    labels = results.get('labels', [])
+            service = build('gmail', 'v1', credentials=creds)
 
-    if not labels:
-        print('No labels found.')
-    else:
-        print('Labels:')
-        for label in labels:
-            print(label['name'])
-        gmail_message = create_message(gmail_sender, gmail_to, gmail_subject, gmail_text)
-        send_message(service, gmail_userid, gmail_message)
+            # Call the Gmail API
+            results = service.users().labels().list(userId='me').execute()
+            labels = results.get('labels', [])
+
+            if not labels:
+                print('No labels found.')
+            else:
+                print('Labels:')
+                for label in labels:
+                    print(label['name'])
+                    
+                gmail_message = create_message(gmail_sender, gmail_to, gmail_subject, gmail_text)
+                send_message(service, gmail_userid, gmail_message)
+        except ValueError:
+            print("SFTP listdir ERROR - EXITING")
+            print(astline)
+
 
 if __name__ == '__main__':
     main()

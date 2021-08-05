@@ -1,0 +1,20 @@
+VER,Version 21.4,EOL
+XT,HBK_Solutions_Utilization_Export_ADJUST_MONTH,4/23/2021,4/23/2021,Comma Separated Values,,Time,Y,N,,,,N,"259,57,37,20,312,26,59,258,78,240,82,133,171,371,17,198",,EOL
+XTD,1,1,AutoHeader,"AUTOHEADER(""DETAIL"")",0,,LEFT,,,,EOL
+XTD,3,1,Work Date,%DB%(259),0,,LEFT,,,,EOL
+XTD,3,2,Timesheet Status,%DB%(198),0,,LEFT,,,,EOL
+XTD,3,3,Person Code,%DB%(57),0,,LEFT,,,,EOL
+XTD,3,4,Person Organization Code,%DB%(37),0,,LEFT,,,,EOL
+XTD,3,5,Person Default Labor Category Name,%DB%(20),0,,LEFT,,,,EOL
+XTD,3,6,Person Default Location,%DB%(312),0,,LEFT,,,,EOL
+XTD,3,7,Person ID Code 1,%DB%(26),0,,LEFT,,,,EOL
+XTD,3,8,Person ID Code 2,%DB%(59),0,,LEFT,,,,EOL
+XTD,3,9,TS Hours,%DB%(258),0,,LEFT,,,,EOL
+XTD,3,10,TS Project External System Code,%DB%(78),0,,LEFT,,,,EOL
+XTD,3,11,TS Project Org Code,%DB%(240),0,,LEFT,,,,EOL
+XTD,3,12,TS Project Title,%DB%(128),0,,LEFT,,,,EOL
+XTD,3,13,TS Project Code,%DB%(82),0,,LEFT,,,,EOL
+XTD,3,14,TS Project Type Name,%DB%(133),0,,LEFT,,,,EOL
+XTD,3,15,TS Task Name,%DB%(171),0,,LEFT,,,,EOL
+XTD,3,16,[EUR] Multiplied Labor Cost: Labour Rate * Registered Hours,"IF(%DB%(371) = """"){   MATH(0 * %DB%(258))  }  ELSE{  MATH(%DB%(371) * %DB%(258))}",0,NUMBER(######0.00),LEFT,,,,EOL
+XTD,3,17,New FieldPerson Business Week Daily Hours,%DB%(17),0,,LEFT,,,,EOL
