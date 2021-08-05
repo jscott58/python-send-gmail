@@ -3,7 +3,9 @@ import pysftp
 import os
 import sys
 import time
+import datetime
 import base64
+import pathlib
 from email.mime.text import MIMEText
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -14,11 +16,10 @@ from google.oauth2.credentials import Credentials
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly', 
           'https://www.googleapis.com/auth/gmail.send']
 
-astline = "************************************************************************"
+astline = "***********************************************************************"
 gmail_sender = "scottcalhoun65@gmail.com"
 gmail_to = "scott.calhoun@hbkeso.com"
 gmail_subject = "Utilization Run Check"
-gmail_text = "...gmail_text not created..."
 gmail_userid = "scottcalhoun65@gmail.com"
 
 
@@ -72,6 +73,7 @@ def send_message(service, user_id, message):
 
 
 def main():
+    gmail_text = ""
     print(astline)
     print("HBK Solutions LLC Unanet Utilization Report - Run Check")
     print(astline)
@@ -104,8 +106,16 @@ def main():
                 for x in range(len(utilFiles)):
                     print("      " + utilFiles[x])
                     fileStatsObj = os.stat(utilFiles[x])
-                    modificationTime = time.ctime(fileStatsObj.st_mtime)
+                #    modificationTime = time.ctime(fileStatsObj.st_mtime)
+                    sftp.get(utilFiles[x],"C:\\Users\\jscott\\PythonProjects\\python-send-gmail\\utilFile.csv", preserve_mtime=True)
+                #   sftp.get(utilFiles[x], "C:\\Users\\jscott\\PythonProjects\\python-send-gmail\\utilFile.csv")
+                    utilFileStatsObj = os.stat('utilFile.csv')
+                    modificationTime = time.ctime(utilFileStatsObj.st_mtime)
+                #    mtime = utilFile.stat().st_ctime
+                #    timestamp_str = datetime.datetime.fromtimestamp(mtime).strftime('%Y-%m-%d-%H:%M')
+                #    print(timestamp_str)
                     print("      Last Modified: ", modificationTime)
+                    gmail_text += utilFiles[x] + "\r" + "      Last Modified: " + modificationTime
             print("")
             print(astline)
             creds = None
@@ -135,9 +145,11 @@ def main():
             if not labels:
                 print('No labels found.')
             else:
-                print('Labels:')
-                for label in labels:
-                    print(label['name'])
+                print('Gmail Account Found')
+                # enable label print to debug access to gmail account
+                # print('Labels:')
+                # for label in labels:
+                #     print(label['name'])
                     
                 gmail_message = create_message(gmail_sender, gmail_to, gmail_subject, gmail_text)
                 send_message(service, gmail_userid, gmail_message)
