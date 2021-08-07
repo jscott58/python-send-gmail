@@ -13803,13 +13803,20 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-02 00:00:00.0,COMPLETED,Dakota Barthlow,UE10087,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Matt Gill,UE10031,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Kim Tollison,UE10046,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Dean Harrison,UE10047,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
+2021-07-05 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-05 00:00:00.0,COMPLETED,Douglas Bunker,UE10070,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
@@ -13836,6 +13843,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-06 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.7 - Accounts Receivable,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,6.19 - Unanet Auditing,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.07 - Data Analysis,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Matt Gill,UE10031,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Matt Gill,UE10031,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,6.7 - FCL Administration,0.00,8
@@ -13855,6 +13870,7 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-06 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,4,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
@@ -13864,6 +13880,12 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-06 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.8 - System Support,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,3.2 - Documentation,0.00,8
+2021-07-06 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,3.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,11.4 - E2E System Documentation,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-06 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,11.4 - E2E System Documentation,0.00,8
@@ -13903,6 +13925,17 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-07 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,6.7 - Phase 2 - Unanet Implementation,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,1.1 - Admin support,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,4.1 - PC Support and Administration,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.07 - Data Analysis,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,3.1 - SAE/ASTM Support,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,5.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
@@ -13920,6 +13953,7 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-07 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,2,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,4,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,2.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
@@ -13929,6 +13963,10 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-07 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,HBMUKL,Ma'aden Rolling Mill (MRC) Reliability System,C48590,Billable Com,2.01 - Integration,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,4.02 - VePRO data import,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,3.2 - Documentation,0.00,8
+2021-07-07 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,3,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,3.3 - Test,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,0,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-07 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,1.6 - Data Generation Methods Documentation,0.00,8
@@ -13966,6 +14004,15 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-08 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,4,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,3.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.1 - Projects,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,4.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.1 - Projects,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.2 - Customer meetings,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,3.1 - SAE/ASTM Support,0.00,8
@@ -13986,12 +14033,19 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-08 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,4.1 - Training,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,5,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,2.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,5.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.3 - Project Planning and review,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,4.02 - VePRO data import,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.3 - Project Planning and review,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-08 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,3.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,0,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-08 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.3 - Project Planning and review,0.00,8
@@ -14035,6 +14089,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-09 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,6.19 - Unanet Auditing,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,4,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,5.1 - Attendance,0.00,8
@@ -14056,12 +14117,19 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-09 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,2.4 - Design and Analysis Report,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,HBMUKL,Ma'aden Rolling Mill (MRC) Reliability System,C48590,Billable Com,2.01 - Integration,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,HBKUSA,Ford DQIE Phase II,C52687,Billable Com,1.01 - Project Planning & Review,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,4.02 - VePRO data import,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,3.3 - Test,0.00,8
+2021-07-09 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,3,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,0,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.3 - Holidays,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-09 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
@@ -14102,6 +14170,12 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-12 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,Overhead,OH,Overhead,6.19 - Unanet Auditing,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.1 - Invoicing,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,3.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,3.1 - SAE/ASTM Support,0.00,8
@@ -14123,6 +14197,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-12 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,1.10 - APF Strategy,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,7.2 - Predictive Analytics (AI/ML),0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,7.1 - Planning,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,DRT,,HBKUSA,Ford DQIE Phase II,C52687,Billable Com,1.02 - Customer Meetings,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,2.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,3,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,3.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
@@ -14132,6 +14213,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-12 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,4.02 - VePRO data import,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2,DRT,,HBKUSA,Ford DQIE Phase II,C52687,Billable Com,1.01 - Project Planning & Review,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,4.1 - PC Support and Administration,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,7.1 - Planning,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,HBKUSA,KLA+,C52533,Billable Com,1.01 - Project Planning & Customer meetings,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.1 - Planning,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.3 - Configuration,0.00,8
+2021-07-12 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.2 - Customer Meetings,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,HBKUSA,KLA+,C52533,Billable Com,1.01 - Project Planning & Customer meetings,0.00,8
 2021-07-12 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
@@ -14169,6 +14258,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-13 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.04 - Customer Documentation,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,3.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.1 - Invoicing,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
@@ -14188,6 +14284,11 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-13 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1.5,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,1.2 - Customer meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,7.0 - Monthly Status Report,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,5.6 - Storage Configuration Documentation,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,2,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,7.2 - Predictive Analytics (AI/ML),0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,3,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,11.4 - E2E System Documentation,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
@@ -14198,6 +14299,16 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-13 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.1 - Customer Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,3.2 - Documentation,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.4 - Documentation,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.2 - Customer Meetings,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,JPO FRACAS - CLIN 0004 System Training,C49690-CLIN4_LABOR,Billable Gov,2.3 - Configuration,0.00,8
+2021-07-13 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-13 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,DRT,,HBKUSA,KLA+,C52533,Billable Com,1.01 - Project Planning & Customer meetings,0.00,8
@@ -14241,6 +14352,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-14 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,5.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.1 - SAE/ASTM Support,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
@@ -14257,12 +14376,20 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-14 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.2 - Data Analysis,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,4,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1.5,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,1.10 - APF Strategy,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,6,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,4,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,4,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,HBKUSA,KLA+,C52533,Billable Com,1.01 - Project Planning & Customer meetings,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.8 - System Support,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,4.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.1 - Customer Meetings,0.00,8
+2021-07-14 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,11.4 - E2E System Documentation,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-14 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,DRT,,HBKUSA,KLA+,C52533,Billable Com,1.01 - Project Planning & Customer meetings,0.00,8
@@ -14310,6 +14437,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-15 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,3.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,1.1 - Admin support,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.08 - Predictive Health Algorithms,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.1 - SAE/ASTM Support,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.2 - Customer meetings,0.00,8
@@ -14328,12 +14462,21 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-15 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,4.1 - Training,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,2,DRT,,HBMPRE,Nikola Motors - RLDA,C52185,Billable Com,3.1 - Data Analysis,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.2 - Data Analysis,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1.5,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,7.2 - Predictive Analytics (AI/ML),0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,4,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,3,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,0.5,DRT,,HBKUSA,Ford DQIE Phase II,C52687,Billable Com,1.01 - Project Planning & Review,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,3,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,3.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.8 - System Support,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,7.1 - Planning,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
+2021-07-15 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,2.6 - Data Validation Documentation,0.00,8
 2021-07-15 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,3.5 - Data Loader Documentation,0.00,8
@@ -14379,6 +14522,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-16 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,Overhead,OH,Overhead,6.19 - Unanet Auditing,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.1 - Invoicing,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,5.1 - Attendance,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,2.4 - Design and Analysis Report,0.00,8
@@ -14395,6 +14545,12 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-16 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,2.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,2.4 - Design and Analysis Report,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Mark Villaire,UE10048,HBKESO,,,,,3.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.2 - Data Analysis,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,0.5,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Internal Research and Development,IRAD,Industrial Research And Development,1.10 - APF Strategy,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.5 - Reporting & Documentation,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,2,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.8 - System Support,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Iain Dodds,UE10054,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,7.2 - Confluence migration,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,2.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Ryan Eick,UE10057,HBKESO,,,,,3.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.06 - VePRO System & Technology Advancement,0.00,8
@@ -14405,6 +14561,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-16 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,4.05 - Board Reviews,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Michael Song,UE10058,HBKESO,,,,,3,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.8 - System Support,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,0.5,DRT,,SMRTNX,JPO FRACAS - CLIN 0001 Software Licensing,C49690-CLIN1_SOFTWARE,Billable Gov,0.2 - Project Planning and Review,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,7.1 - Planning,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,2.01 - Message Bus Requirements,0.00,8
+2021-07-16 00:00:00.0,COMPLETED,Jim Fecteau,UE10062,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Nabeel Majahid,UE10063,HBKESO,,,,,8,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-16 00:00:00.0,COMPLETED,Xusheng Gao,UE10065,HBKESO,,,,,1,DRT,,SMRTNX,NAVAIR/NAE - CLIN 2 Software End Product,C49427-CLIN2_SOFTWARE_END_PROD,Billable Gov,1.02 - Internal Meetings,0.00,8
@@ -14446,6 +14609,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-19 00:00:00.0,COMPLETED,Jason Simmons,UE 10052,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-19 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-19 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,6,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-19 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-19 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
 2021-07-19 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-19 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,1.1 - Employee Training,0.00,8
@@ -14481,6 +14652,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-20 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-20 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-20 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,3,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.08 - Predictive Health Algorithms,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-20 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-20 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-20 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,7,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-20 00:00:00.0,COMPLETED,Matt Gill,UE10031,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
@@ -14517,6 +14696,11 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-21 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.3 - Employee Training,0.00,8
 2021-07-21 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-21 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,7,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-21 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-21 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-21 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-21 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-21 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,3.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-21 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.3 - Data Comparisons,0.00,8
 2021-07-21 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,7,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-21 00:00:00.0,COMPLETED,Matt Gill,UE10031,HBKESO,,,,,8,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,4.1 - PC Support and Administration,0.00,8
@@ -14547,6 +14731,15 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-22 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,6.10 - Debt Reconciliation,0.00,8
 2021-07-22 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,6.7 - FCL Administration,0.00,8
 2021-07-22 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,7,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-22 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-22 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-22 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,2,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.2 - Customer meetings,0.00,8
 2021-07-22 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,2,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
@@ -14586,6 +14779,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-23 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-23 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-23 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,3,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.05 - VePRO & Automation System Sustainment,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-23 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
 2021-07-23 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-23 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,5.1 - Attendance,0.00,8
 2021-07-23 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.3 - Data Comparisons,0.00,8
@@ -14625,6 +14826,15 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-26 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-26 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-26 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,4,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.1 - Invoicing,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.08 - Predictive Health Algorithms,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,2.1 - Recruitment,0.00,8
+2021-07-26 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
 2021-07-26 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-26 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.3 - Project Planning and Review,0.00,8
 2021-07-26 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,6.3 - Data Comparisons,0.00,8
@@ -14667,6 +14877,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-27 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-27 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-27 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,4,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.08 - Predictive Health Algorithms,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,MSUMIS,VePRO-A ERDC Scalability,C43412,Billable Gov,0.1 - Invoicing,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-27 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-27 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0,IRT,,HBKESO,Overhead,OH,Overhead,5.1 - Attendance,0.00,8
 2021-07-27 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-27 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
@@ -14716,6 +14933,7 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-28 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-28 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,6.10 - Debt Reconciliation,0.00,8
 2021-07-28 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,2.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
+2021-07-28 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,8,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
 2021-07-28 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-28 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
 2021-07-28 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,5.2 - Testing support,0.00,8
@@ -14757,6 +14975,14 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-29 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-29 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,6.7 - FCL Administration,0.00,8
 2021-07-29 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,4.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.7 - Accounts Receivable,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,HBMUKL,Hitachi Metro Thessaloniki,C51276,Billable Com,1.02 - Project Management Plan,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.08 - Predictive Health Algorithms,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,3.2 - Technical Contract Support,0.00,8
+2021-07-29 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2.5,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-29 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,1.2 - Customer meetings,0.00,8
 2021-07-29 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-29 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
@@ -14800,6 +15026,13 @@ Work Date,Timesheet Status,Person Name,Person Code,Person Organization Code,Pers
 2021-07-30 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,1.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-30 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,3,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,8.6 - HBK Services & Solutions,0.00,8
 2021-07-30 00:00:00.0,COMPLETED,John Calhoun,UE10007,HBKESO,,,,,3.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,6.10 - Debt Reconciliation,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,0.5,IRT,,HBKESO,Overhead,OH,Overhead,2.1 - Supervision,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,IRT,,HBKESO,Overhead,OH,Overhead,2.2 - Management & Staff Meetings,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1,DRT,,USDAFS,U.S. Forest Service Operational Loads Monitoring System (OLMS),C50330,Billable Gov,1.2 - System Management and Support,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.01 - Planning Reviews & Customer Meetings,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,1.5,DRT,,PERSPE,IPEMA XII,C52150,Billable Gov,1.03 - Admin Reporting & Invoicing,0.00,8
+2021-07-30 00:00:00.0,COMPLETED,Mark Clements,UE10016,HBKESO,,,,,2,IRT,,HBKESO,Overhead,OH,Overhead,2.9 - Finance Contract Support,0.00,8
 2021-07-30 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,0.5,IRT,,HBKESO,General & Administrative,G&A,General & Administrative,3.1 - General Administration,0.00,8
 2021-07-30 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,1,DRT,,AMGENE,AM General HMMWV Light-Weighting II,C50314,Billable Gov,2.4 - Design and Analysis Report,0.00,8
 2021-07-30 00:00:00.0,COMPLETED,Dan Lingenfelser,UE10029,HBKESO,,,,,2,IRT,,HBKESO,Fringe - Time Off,FRINGE,Paid Time Off,1.1 - PTO,0.00,8
