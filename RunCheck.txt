@@ -1,0 +1,1 @@
+Run C:\RunCheck\sendmessage.exe which logs in to sftp.hbkeso.com/HBMUtil, reads all files and emails filenames and lasdt modified date to user specificed in sendmessage.py using Google Gmail API. Executable built w/ pyinstaller and python-sed-gmail.

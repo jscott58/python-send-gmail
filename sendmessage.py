@@ -74,12 +74,22 @@ def send_message(service, user_id, message):
         return message
     except service.HttpError as exception:
         print("An error occurred: %s" % message.HttpError)
+        
+
+def empty_accountroot(folder_to_empty):
+    for CleanUp in glob.glob(folder_to_empty + '/*.*'):
+        if not CleanUp.endswith('token.json'):    
+            os.remove(CleanUp)
 
 
 def main():
     gmail_text = ""
     local_dir = ".\\accountroot"
-    filelist = glob.glob(".\\accountroot\\*csv")
+    # Setup local accountroot folder if not eexisit
+    if os.path.isdir(local_dir):
+        empty_accountroot(local_dir)
+    else:
+        os.mkdir(local_dir)
     print(astline)
     print("HBK Solutions LLC Unanet Utilization Report - Run Check")
     print(astline)
@@ -89,12 +99,6 @@ def main():
     print("Reading HBKUtil utilization folder on sftp.hbkeso.com")
     print(astline)
     print("")
-    # Setup local accountroot folder if not eexisit
-    if os.path.isdir(local_dir):
-        for filepath in filelist:
-            os.remove(filepath)
-    else:
-        os.mkdir(local_dir)
     # Define hostkey path so that pyinstaller will correctly include when using --onrfile
     sftphostkey_path = resource_path("hbkeso.pub")
     # A Specify host jey for sftp server
@@ -163,7 +167,7 @@ def main():
                     # print(gmail_text)
                 print(astline)
             except ValueError:
-                    print("Googe API ERROR: " + ValueError)
+                    print("Google API ERROR: " + ValueError)
         except ValueError:
             print("SFTP ERROR - EXITING: " + ValueError)
             print(astline)
